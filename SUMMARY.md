@@ -1,0 +1,59 @@
+# Table of contents
+
+* [Welcome](README.md)
+
+## ⭐ Quick Access
+
+* [Tasks Spreadsheet](https://docs.google.com/spreadsheets/d/1Dclz-ZbTjDSw2s5z0OvFRHKO4zEZbQgUnmBTLNCGn8M/edit?usp=sharing)
+* [Studio Planner](https://1drv.ms/x/s!AtY07CEm6uUNgRQbHx48QYI46eK5?e=obLREs)
+* [Studio Scratch Pad](https://docs.google.com/document/d/1Te6q6B7l4yW4MbboxZSQLMt8R3uh3gkrl5TmabygyQM/edit?usp=sharing)
+* [Templates](https://docs.google.com/document/d/1s_UcCwA-7_inkZ2cwr7Gj3rU-qe1mkbV8Bh1aslx7hQ/edit?usp=sharing)
+* [Email Templates](quick-access/email-templates.md)
+* [Important Links](quick-access/important-links.md)
+* [Text snippets (to copy and paste)](quick-access/openapi.md)
+* [Pricing/Offerings](quick-access/pricing-offerings.md)
+* [Vendors](quick-access/vendors/README.md)
+  * [🎨 Retouchers](quick-access/vendors/retouchers.md)
+  * [💄 Hair/Makeup Artists](quick-access/vendors/hair-makeup-artists.md)
+
+## 🌵 Sprout Studio
+
+* [⭐️ Getting Started with Sprout](sprout-studio/getting-started-with-sprout.md)
+* [Workflows, Tasks, and Sprout Assistant](sprout-studio/workflows-tasks-and-sprout-assistant/README.md)
+  * [Checking if a workflow was applied](sprout-studio/workflows-tasks-and-sprout-assistant/checking-if-a-workflow-was-applied.md)
+  * [What is a workflow?](sprout-studio/workflows-tasks-and-sprout-assistant/what-is-a-workflow.md)
+  * [View a workflow’s setup in settings](sprout-studio/workflows-tasks-and-sprout-assistant/view-a-workflows-setup-in-settings.md)
+  * [Tasks](sprout-studio/workflows-tasks-and-sprout-assistant/tasks.md)
+  * [Applying a Workflow](sprout-studio/workflows-tasks-and-sprout-assistant/applying-a-workflow.md)
+* [Orders and Invoices](sprout-studio/orders-and-invoices/README.md)
+  * [Sending an invoice](sprout-studio/orders-and-invoices/sending-an-invoice.md)
+  * [Creating an order](sprout-studio/orders-and-invoices/creating-an-order.md)
+  * [Orders vs. Invoices](sprout-studio/orders-and-invoices/orders-vs.-invoices.md)
+  * [How to record an IPS sale](sprout-studio/orders-and-invoices/how-to-record-an-ips-sale.md)
+* [Leads and Shoots](sprout-studio/leads-and-shoots/README.md)
+  * [Adding referral sources](sprout-studio/leads-and-shoots/adding-referral-sources.md)
+  * [Adding, deleting, and rescheduling tasks](sprout-studio/leads-and-shoots/adding-deleting-and-rescheduling-tasks.md)
+  * [Applying correct users](sprout-studio/leads-and-shoots/applying-correct-users.md)
+  * [Applying the correct shoot type](sprout-studio/leads-and-shoots/applying-the-correct-shoot-type.md)
+  * [Converting a lead to a shoot in Sprout](sprout-studio/leads-and-shoots/converting-a-lead-to-a-shoot-in-sprout.md)
+  * [Manually booking someone](sprout-studio/leads-and-shoots/manually-booking-someone.md)
+  * [Manually Creating a Shoot](sprout-studio/leads-and-shoots/manually-creating-a-shoot.md)
+  * [Manually creating a lead](sprout-studio/leads-and-shoots/manually-creating-a-lead.md)
+  * [Reformatting lead/shoot name](sprout-studio/leads-and-shoots/reformatting-lead-shoot-name.md)
+  * [How someone can become a lead in Sprout](sprout-studio/leads-and-shoots/how-someone-can-become-a-lead-in-sprout.md)
+  * [Attached users and shoot roles](sprout-studio/leads-and-shoots/attached-users-and-shoot-roles.md)
+  * [Rescheduling using an embedded scheduler](sprout-studio/leads-and-shoots/rescheduling-using-an-embedded-scheduler.md)
+  * [Cancelling a Shoot](sprout-studio/leads-and-shoots/cancelling-a-shoot.md)
+* [Booking Pages and Booking Proposals](sprout-studio/booking-pages-and-booking-proposals/README.md)
+  * [What is a booking catalogue?](sprout-studio/booking-pages-and-booking-proposals/what-is-a-booking-catalogue.md)
+  * [How do public-facing booking pages work?](sprout-studio/booking-pages-and-booking-proposals/how-do-public-facing-booking-pages-work.md)
+  * [Creating/sending booking proposals](sprout-studio/booking-pages-and-booking-proposals/creating-sending-booking-proposals.md)
+  * [How custom booking proposals for leads work](sprout-studio/booking-pages-and-booking-proposals/how-custom-booking-proposals-for-leads-work.md)
+
+## ✅ Policies and Procedures
+
+* [How to Schedule a Hair/Makeup Artist](policies-and-procedures/how-to-schedule-a-hair-makeup-artist.md)
+* [Standard turnaround times](policies-and-procedures/standard-turnaround-times.md)
+* [Studio Hours](policies-and-procedures/integrations.md)
+* [Reschedule/Cancellation Policy](policies-and-procedures/reschedule-cancellation-policy.md)
+* [Lead/Shoot Naming Conventions](policies-and-procedures/lead-shoot-naming-conventions.md)
