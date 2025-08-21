@@ -14,7 +14,7 @@
 * [Pricing/Offerings](quick-access/pricing-offerings.md)
 * [Vendors](quick-access/vendors/README.md)
   * [🎨 Retouchers](quick-access/vendors/retouchers.md)
-  * [💄 Hair/Makeup Artists](quick-access/vendors/hair-makeup-artists.md)
+  * [💄 Hair/Makeup Artists 2](quick-access/vendors/hair-makeup-artists-2.md)
   * [💄 HMU Contact Info](quick-access/vendors/hmu-contact-info.md)
 
 ## 🌵 Sprout Studio
