@@ -34,7 +34,7 @@ Philadelphia, PA 19103
 
 💡 Friday/Weekend Sessions: If you arrive early before me, the lobby lights might be off, and the upper floors locked. If so, you can turn on the lobby lights (switch on your right on your way in) and wait there in the lower lobby until I arrive.
 
-🔐 How to Enter: For both the exterior and vestibule doors, use the code 52369, then press the checkmark and wait for the deadbolt to unlock.
+🔐 How to Enter: For both the exterior and vestibule doors, use the code, then press the checkmark and wait for the deadbolt to unlock.
 
 IMPORTANT: To keep out building secure, right after you enter, hold the exterior door shut until it locks after about 5 seconds - you’ll see and hear the top deadbolt lock. Please do this when you leave as well. Thank you!
 
