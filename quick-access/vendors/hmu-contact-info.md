@@ -1,15 +1,16 @@
 ---
 description: 'Artists We Recommend (in order of preference):'
+hidden: true
 ---
 
-# 💄 Hair/Makeup Artists
+# 💄 HMU Contact Info
 
 **Hair and Makeup Pricing for Studio Sessions**\
 Hair and makeup is $300 and charged at the time of booking if the client chooses to book it. They will pay tip to the artist at the shoot before their artist leaves. This is generally payable via Venmo.\
 
 
 **How Clients Book Hair/Makeup**\
-In the (our public Sprout booking link that shows multiple different kinds of sessions they can chose from), clients will see separate session types for session types that have the option for hair and makeup (only Power Hour sessions and Standard Sessions) - one that includes hair and makeup, and one without. They can select the option that works best for them. Based on their selection, the correct amount of time will be reserved on our calendar to include both the session and time for hair/makeup if they booked that. They will also be charged for hair and makeup when booking if they decided they wanted that.\
+In the [online booking catalog](https://msp.clientportal.photo/bookings) (our public Sprout booking link that shows multiple different kinds of sessions they can chose from), clients will see separate session types for session types that have the option for hair and makeup (only Power Hour sessions and Standard Sessions) - one that includes hair and makeup, and one without. They can select the option that works best for them. Based on their selection, the correct amount of time will be reserved on our calendar to include both the session and time for hair/makeup if they booked that. They will also be charged for hair and makeup when booking if they decided they wanted that.\
 \
 &#xNAN;_&#x4E;ote: in-studio hair/makeup services are not offered for In-and-Out Sessions. It will be offered for dating profile photo sessions once we begin to offer those as their own standalone session type._\
 \
@@ -49,6 +50,10 @@ We forward the signed contract to the artist so they can come to the session pre
 **Natty Contrera**\
 &#xNAN;_&#x49;ndependent artist_
 
+[hello@nattycontrera.com](mailto:hello@nattycontrera.com)\
+[nattycontrera.com](https://www.nattycontrera.com/)\
+[instagram.com/nattycontrera](https://www.instagram.com/nattycontrera/)
+
 Rates:\
 Studio sessions: $300 for hair and makeup, staying for duration of the shoot (up to 2 hours)\
 On-location: Need to go back and check what she said her pricing for a ½ day and full day are
@@ -62,7 +67,7 @@ On-location: Need to go back and check what she said her pricing for a ½ day an
 **Mary Ashanti**\
 &#xNAN;_&#x4D;akeup on the Go_\
 \
-\
+[Maryashanti@madeuponthego.com](mailto:Maryashanti@madeuponthego.com) \
 \
 Rates:\
 Studio sessions: $300 for hair and makeup, staying for duration of the shoot (up to 2 hours)\
@@ -88,6 +93,6 @@ Don’t recommend the artists below to anyone, and do not reach out to get their
 
 **Beauty by Jacqui D** [https://www.beautybyjacquid.com/](https://www.beautybyjacquid.com/) [BeautybyJacquiD@gmail.com](mailto:jacquimdoucette@gmail.com?subject=Reaching%20out%20from%20the%20website!) [https://www.instagram.com/beauty.byjacquid](https://www.instagram.com/beauty.byjacquid) She used to work with an agency I worked with several years ago and I really like her! Not sure if she still does on-location HMU.
 
-**JM + Co.** [https://www.jacquelinemichelleandco.com/](https://www.jacquelinemichelleandco.com/our-team) Haven’t used them.
+**JM + Co.** [https://www.jacquelinemichelleandco.com/](https://www.jacquelinemichelleandco.com/our-team) Haven’t used them. (610) 742-3602 ; (267) 423-8464
 
-**Aleksandra Ambrozy** [https://www.aleksandraambrozy.com](https://www.aleksandraambrozy.com/)&#x20;
+**Aleksandra Ambrozy** [https://www.aleksandraambrozy.com](https://www.aleksandraambrozy.com/) info@aleksandraambrozy.com No phone number listed Haven’t used her.
