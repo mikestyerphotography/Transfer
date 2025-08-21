@@ -2,7 +2,7 @@
 description: 'Artists We Recommend (in order of preference):'
 ---
 
-# 💄 Hair/Makeup Artists
+# 💄 Hair/Makeup Artists 2
 
 **Hair and Makeup Pricing for Studio Sessions**\
 Hair and makeup is $300 and charged at the time of booking if the client chooses to book it. They will pay tip to the artist at the shoot before their artist leaves. This is generally payable via Venmo.\

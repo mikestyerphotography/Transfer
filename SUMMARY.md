@@ -4,17 +4,11 @@
 
 ## ⭐ Quick Access
 
-* [Tasks Spreadsheet](https://docs.google.com/spreadsheets/d/1Dclz-ZbTjDSw2s5z0OvFRHKO4zEZbQgUnmBTLNCGn8M/edit?usp=sharing)
-* [Studio Planner](https://1drv.ms/x/s!AtY07CEm6uUNgRQbHx48QYI46eK5?e=obLREs)
-* [Studio Scratch Pad](https://docs.google.com/document/d/1Te6q6B7l4yW4MbboxZSQLMt8R3uh3gkrl5TmabygyQM/edit?usp=sharing)
-* [Templates](https://docs.google.com/document/d/1s_UcCwA-7_inkZ2cwr7Gj3rU-qe1mkbV8Bh1aslx7hQ/edit?usp=sharing)
-* [Email Templates](quick-access/email-templates.md)
-* [Important Links](quick-access/important-links.md)
 * [Text snippets (to copy and paste)](quick-access/openapi.md)
 * [Pricing/Offerings](quick-access/pricing-offerings.md)
 * [Vendors](quick-access/vendors/README.md)
   * [🎨 Retouchers](quick-access/vendors/retouchers.md)
-  * [💄 Hair/Makeup Artists 2](quick-access/vendors/hair-makeup-artists-2.md)
+  * [💄 Hair/Makeup Artists 2](quick-access/vendors/hair-makeup-artists.md)
   * [💄 HMU Contact Info](quick-access/vendors/hmu-contact-info.md)
 
 ## 🌵 Sprout Studio
